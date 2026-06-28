@@ -3,7 +3,7 @@
 **States:** Alabama, Kentucky, Mississippi, Tennessee
 **Term:** Summer 2026
 ## How to Run
-1. Open `INFO648_Final_EastSouthCentral.ipynb` in [Google Colab](https://colab.research.google.com)
+1. Open `INFO648_Final_ESC.ipynb` in [Google Colab](https://colab.research.google.com)
 2. Run the first cell — a file picker will appear
 3. Upload `student_tracts_raw.csv` and `forecast_tracts_2020.csv`
 4. Go to **Runtime → Run all**
