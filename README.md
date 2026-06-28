@@ -36,4 +36,4 @@ streamlit run app.py
 4. Click **Deploy**
 5. Copy the live URL and paste it above
 
-> **Note:** .joblib files were downloaded from colab and uploaded ontoGithub
+> **Note:** .joblib files were downloaded from colab and uploaded onto Github
